@@ -2,5 +2,5 @@
 
 - 🔭 Atualmente estou trabalhando em [**Space Invaders:**](https://serimar.epizy.com/).
 - 🌱 Atualmente estou aprendendo **React.js**.
-- 📫 Como me encontrar: [Seu Email ou Links para Redes Sociais].
-- ⚡ Curiosidade: [Fato Divertido Sobre Você].
+- 📫 Como me encontrar: [**gabrielaramires.com.br**](https://gabrielaramires.com.br/).
+- ⚡ Curiosidade: Sou desenvolvedora há 1 ano.
